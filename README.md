@@ -34,8 +34,7 @@ This repository explores the use of Prisma ORM for type-safe and efficient datab
 
 ### 6. **Database Management**
 - Apply schema changes with migrations (`prisma migrate`).
-- Use Prisma Studio for GUI-based database exploration.
-
+  
 ### 7. **Type-Safe Querying**
 - Prisma auto-generates a fully-typed client, ensuring safer and more predictable database interactions.
 
